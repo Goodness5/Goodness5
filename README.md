@@ -11,5 +11,5 @@ My name is **Goodness**, I'm learning Typescript, Python and solidity
 - :speech_bubble: Ask me about interesting things
 - :mailbox: How to reach me: [@goodnesskolapo](https://twitter.com/goodnesskolapo)
 - :smile: Pronouns: He/His
-- :zap: Fun fact: I love python
+- :zap: Fun fact:  - :blank_face:
 
