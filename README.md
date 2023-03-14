@@ -3,7 +3,7 @@
 
 My name is **Goodness**, I'm learning Typescript, Python and solidity
 
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=goodness5&show_icons=true&theme=radical)
+#![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=goodness5&show_icons=true&theme=radical)
 
 - :telescope: I’m currently working on amazing things
 - :seedling: I’m currently learning a lot of fun things
