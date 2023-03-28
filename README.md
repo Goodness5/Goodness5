@@ -11,30 +11,19 @@ My name is **Goodness**, I'm learning Typescript, Python and solidity
 - :speech_bubble: Ask me about interesting things
 - :mailbox: How to reach me: [@goodnesskolapo](https://twitter.com/goodnesskolapo)
 - :smile: Pronouns: He/His
-- :zap: Fun fact:   :blank:
 
-### Hi, I'm 🥇[DiamondaryHand](https://t.me/bin_0316/)🥇, I am a Blockchain & Full Stack(Node/.NET/React/Angular/Vue) Developer.
+### Hi, I'm 🥇[goodness](https://twitter.com/goodnesskolapo)🥇, I am a Blockchain & Full Stack(python/Next/React/Node) Developer.
 
 #### I have good experience in 
-- NFT (dynamic, marketplace, staking, landplot).
-- Vault, Lottery, Farm, Trading Contracts, Rust.
-- PancakeSwap, UniswapV2 & V3, PantherSwap Chainlink.
-- Token Bridge, Block Explorer.
-- Smart contracts and web3 game.
-- Defi Protocol(Tokemak, FATExDAO).
+- NFT.
+- Vault, Lottery, Farm, Trading Contracts.
+- UniswapV2 & V3, Chainlink.
+- Smart contracts.
 
 ### Connect with me:
 
-- 📧 Email : masterdevv278@gmail.com
-
-### **_Skills_**
-
-
-### **_Projects_**
+- 📧 Email : goodnesskolapo@gmail.com
 
 
 | <a href="https://github.com/goodness5?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=goodness5&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a> | <a href="https://github.com/goodness5?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodness5&layout=compact&theme=buefy&hide_border=true" /> </a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-
-
