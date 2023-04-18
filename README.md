@@ -25,5 +25,5 @@ My name is **Goodness**, I'm learning Typescript, Python and solidity
 
 
 | <a href="https://github.com/goodness5?tab=repositories">view repositories.. </a> |
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodness5&layout=compact)](https://github.com/goodness5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodness5&langs_count=10)](https://github.com/goodness5/github-readme-stats)
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
