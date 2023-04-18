@@ -18,7 +18,7 @@ My name is **Goodness**, I'm learning Typescript, Python and solidity
 - UniswapV2 & V3, Chainlink.
 - Smart contracts.
 
-![Goodness's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodness5&show_icons=true&theme=radical&include_all_commits)
+![Goodness's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodness5&show_icons=true&theme=radical&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodness5&langs_count=10&hide_progress=true)](https://github.com/goodness5/github-readme-stats)
 
