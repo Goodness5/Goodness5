@@ -1,7 +1,7 @@
 ### Hello there :wave:
 ### Welcome to my page 🤗
 
-My name is **Goodness**, I write Typescript, JavaScript, Python and solidity
+### Hi, I'm 🥇[goodness](https://twitter.com/goodnesskolapo)🥇, I am a Blockchain & Full Stack(python/javascript/React/Node) Developer.
 
 - :telescope: I’m currently working on amazing things
 - :seedling: I’m currently learning Rust.
@@ -10,7 +10,6 @@ My name is **Goodness**, I write Typescript, JavaScript, Python and solidity
 - :mailbox: How to reach me: [@goodnesskolapo](https://twitter.com/goodnesskolapo)
 - :smile: Pronouns: He/His
 
-### Hi, I'm 🥇[goodness](https://twitter.com/goodnesskolapo)🥇, I am a Blockchain & Full Stack(python/Next/React/Node) Developer.
 
 #### I have good experience in 
 - NFT.
