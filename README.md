@@ -1,6 +1,6 @@
 ### Hello there :wave:
 
-### Hi, I'm 🥇[goodness](https://twitter.com/goodnesskolapo)🥇, I am a Blockchain & Full Stack(python/javascript/React/Node) Developer.
+### Hi, I'm 🥇[goodness](https://twitter.com/goodnesskolapo)🥇, i'm a Blockchain & Full Stack(python/javascript/React/Node) Developer.
 
 - :telescope: I’m currently working on amazing things
 - :seedling: I’m currently learning Rust.
