@@ -1,5 +1,4 @@
 ### Hello there :wave:
-### Welcome to my page 🤗
 
 ### Hi, I'm 🥇[goodness](https://twitter.com/goodnesskolapo)🥇, I am a Blockchain & Full Stack(python/javascript/React/Node) Developer.
 
